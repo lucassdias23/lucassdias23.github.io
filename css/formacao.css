@@ -57,6 +57,14 @@
   flex-direction: column;
 }
 
+.icones-curso {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 60px;
+}
+
 .faculdade-tipo {
   font-size: 0.875rem;
   text-transform: uppercase;

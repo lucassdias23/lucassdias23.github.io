@@ -28,6 +28,20 @@
   margin-bottom: 30px;
 }
 
+.footer-contato a {
+  text-decoration: none;
+  color: #ffffff;
+  margin-bottom: 40px;
+  display: flex;
+}
+
+.redes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  align-items: center;
+}
+
 .footer-copy {
   grid-column: 1 / -1;
   font-size: 1.125rem;
